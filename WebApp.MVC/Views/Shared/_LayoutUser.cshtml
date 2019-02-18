@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=10">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -  Cape INC</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div id="logo">
+                    <img src="~/Images/CAPENewLogoJPG.jpg" />
+                </div>
+            </div>
+
+            <ul class="navbar-collapse collapse nav navbar-nav">
+                <li class="active">@Html.ActionLink("Home ", "Index", "Home")</li>
+            </ul>
+
+            <div class="navbar-collapse collapse navbar-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("User", "CraftUser", "User")</li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#"> Welcome, <strong id="LblNombre" class="NameUser"></strong>, &nbsp; <span id="lblFecha"></span></a>
+                    </li>
+                    <li>@Html.ActionLink("LogOff ", "LogOff", "Account")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Cape Environmental Management Inc, All Rights Reserved</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/MasterApp.js"></script>
+    <script src="~/Scripts/jquery.cookie.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

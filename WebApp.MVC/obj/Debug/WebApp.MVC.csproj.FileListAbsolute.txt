@@ -1,0 +1,214 @@
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\bin\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Newtonsoft.Json.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Microsoft.Web.Infrastructure.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csprojAssemblyReference.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Newtonsoft.Json.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Microsoft.SqlServer.Types.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csprojAssemblyReference.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\Microsoft.SqlServer.Types.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Repository.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\WebApplication.Service.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApp.MVC\obj\Debug\WebApp.MVC.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApp.MVC.dll.config
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApp.MVC.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApp.MVC.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Business.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Dictionay.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Entities.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Infraestructure.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Service.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\Microsoft.SqlServer.Types.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Business.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Dictionay.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Entities.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Infraestructure.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Service.pdb
+C:\Desarrollo\Test\WebApp.MVC\bin\WebApplication.Service.dll.config
+C:\Desarrollo\Test\WebApp.MVC\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Desarrollo\Test\WebApp.MVC\obj\Debug\WebApp.MVC.csprojAssemblyReference.cache
+C:\Desarrollo\Test\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Test\WebApp.MVC\obj\Debug\WebApp.MVC.csproj.CopyComplete
+C:\Desarrollo\Test\WebApp.MVC\obj\Debug\WebApp.MVC.dll
+C:\Desarrollo\Test\WebApp.MVC\obj\Debug\WebApp.MVC.pdb

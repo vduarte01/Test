@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRAFT_LONG_BONUSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="Emp_Id" />
+    </Key>
+    <Property Name="Emp_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Emp_JAMIS_Employee_Id" Type="Int32" />
+    <Property Name="Emp_COSTPOINT_Employee_Id" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_PayrollCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_EarningGroup" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_EmployeeName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_LastName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_FirstName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_HireDate" Type="DateTime" Precision="3" />
+    <Property Name="Emp_Hiring_Longevity_Days" Type="Int32" />
+    <Property Name="Emp_Total_Labor_Hours" Type="Decimal" Precision="14" Scale="2" />
+    <Property Name="Emp_Last_Bonus_Date" Type="DateTime" Precision="0" />
+    <Property Name="Emp_Labor_Hours_From_Last_Bonus" Type="Decimal" Precision="14" Scale="2" />
+    <Property Name="Emp_Hours_Cutoff_Date" Type="DateTime" Precision="0" />
+    <Property Name="Emp_Cutoff_Date" Type="DateTime" Precision="0" />
+    <Property Name="Emp_Status" Type="Boolean" />
+    <NavigationProperty Name="EMPLOYEE_BONUS_HISTORY" Relationship="Self.FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId" FromRole="EMPLOYEE" ToRole="EMPLOYEE_BONUS_HISTORY" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE_BONUS_HISTORY">
+    <Key>
+      <PropertyRef Name="EmpBonHis_Id" />
+    </Key>
+    <Property Name="EmpBonHis_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Emp_Id" Type="Int32" Nullable="false" />
+    <Property Name="EmpBonHis_Bonus_Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="EmpBonHis_Bonus_Value" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="EmpBonHis_Longevity_Years" Type="Int16" />
+    <Property Name="EmpBonHis_Hours_From_Last_Bonus" Type="Decimal" Precision="14" Scale="2" />
+    <Property Name="EmpBonHis_Hours_From_Hire_Date" Type="Decimal" Precision="14" Scale="2" />
+    <NavigationProperty Name="EMPLOYEE" Relationship="Self.FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId" FromRole="EMPLOYEE_BONUS_HISTORY" ToRole="EMPLOYEE" />
+  </EntityType>
+  <Association Name="FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId">
+    <End Role="EMPLOYEE" Type="Self.EMPLOYEE" Multiplicity="1" />
+    <End Role="EMPLOYEE_BONUS_HISTORY" Type="Self.EMPLOYEE_BONUS_HISTORY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE">
+        <PropertyRef Name="Emp_Id" />
+      </Principal>
+      <Dependent Role="EMPLOYEE_BONUS_HISTORY">
+        <PropertyRef Name="Emp_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CRAFT_LONG_BONUSEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="EMPLOYEE" EntityType="Self.EMPLOYEE" />
+    <EntitySet Name="EMPLOYEE_BONUS_HISTORY" EntityType="Self.EMPLOYEE_BONUS_HISTORY" />
+    <AssociationSet Name="FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId" Association="Self.FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId">
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEE" />
+      <End Role="EMPLOYEE_BONUS_HISTORY" EntitySet="EMPLOYEE_BONUS_HISTORY" />
+    </AssociationSet>
+    <FunctionImport Name="jsp_Update_JAMIS_Craft_Employee_and_Bonus">
+      <Parameter Name="prt_Cutoff_Date" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="rsp_JAMIS_Employee_and_Bonus" ReturnType="Collection(CRAFT_LONG_BONUSModel.rsp_JAMIS_Employee_and_Bonus_Result)">
+      <Parameter Name="EmpId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="csp_Migrate_CostPoint_Craft_Employee" />
+    <FunctionImport Name="csp_Migrate_HumanResources_Bonus_Hours" />
+  </EntityContainer>
+  <ComplexType Name="rsp_JAMIS_Employee_and_Bonus_Result">
+    <Property Type="Int32" Name="Emp_Id" Nullable="false" />
+    <Property Type="Int32" Name="Emp_JAMIS_Employee_Id" Nullable="true" />
+    <Property Type="String" Name="Emp_LastName" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Emp_FirstName" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Emp_EmployeeName" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Emp_Email" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Emp_PayrollCode" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="Emp_EarningGroup" Nullable="true" MaxLength="10" />
+    <Property Type="DateTime" Name="Emp_HireDate" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Emp_Hiring_Longevity_Days" Nullable="true" />
+    <Property Type="Decimal" Name="Emp_Total_Labor_Hours" Nullable="true" Precision="14" Scale="2" />
+    <Property Type="DateTime" Name="Emp_Last_Bonus_Date" Nullable="true" />
+    <Property Type="Decimal" Name="Emp_Labor_Hours_From_Last_Bonus" Nullable="true" Precision="14" Scale="2" />
+    <Property Type="DateTime" Name="Emp_Cutoff_Date" Nullable="true" />
+    <Property Type="Boolean" Name="Emp_Status" Nullable="true" />
+    <Property Type="String" Name="Emp_COSTPOINT_Employee_Id" Nullable="true" MaxLength="12" />
+    <Property Type="Int32" Name="EmpBonHis_Id" Nullable="true" />
+    <Property Type="DateTime" Name="EmpBonHis_Bonus_Date" Nullable="true" />
+    <Property Type="Decimal" Name="EmpBonHis_Bonus_Value" Nullable="true" Precision="10" Scale="2" />
+    <Property Type="Int16" Name="EmpBonHis_Longevity_Years" Nullable="true" />
+    <Property Type="Decimal" Name="EmpBonHis_Hours_From_Last_Bonus" Nullable="true" Precision="14" Scale="2" />
+    <Property Type="Decimal" Name="EmpBonHis_Hours_From_Hire_Date" Nullable="true" Precision="14" Scale="2" />
+  </ComplexType>
+</Schema>

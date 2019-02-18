@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRAFT_LONG_BONUSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="Emp_Id" />
+    </Key>
+    <Property Name="Emp_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Emp_JAMIS_Employee_Id" Type="int" />
+    <Property Name="Emp_COSTPOINT_Employee_Id" Type="varchar" MaxLength="12" />
+    <Property Name="Emp_Email" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_PayrollCode" Type="varchar" MaxLength="10" />
+    <Property Name="Emp_EarningGroup" Type="varchar" MaxLength="10" />
+    <Property Name="Emp_EmployeeName" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_LastName" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_FirstName" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_HireDate" Type="datetime" />
+    <Property Name="Emp_Hiring_Longevity_Days" Type="int" />
+    <Property Name="Emp_Total_Labor_Hours" Type="decimal" Precision="14" Scale="2" />
+    <Property Name="Emp_Last_Bonus_Date" Type="date" />
+    <Property Name="Emp_Labor_Hours_From_Last_Bonus" Type="decimal" Precision="14" Scale="2" />
+    <Property Name="Emp_Hours_Cutoff_Date" Type="date" />
+    <Property Name="Emp_Cutoff_Date" Type="date" />
+    <Property Name="Emp_Status" Type="bit" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE_BONUS_HISTORY">
+    <Key>
+      <PropertyRef Name="EmpBonHis_Id" />
+    </Key>
+    <Property Name="EmpBonHis_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Emp_Id" Type="int" Nullable="false" />
+    <Property Name="EmpBonHis_Bonus_Date" Type="date" Nullable="false" />
+    <Property Name="EmpBonHis_Bonus_Value" Type="numeric" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="EmpBonHis_Longevity_Years" Type="smallint" />
+    <Property Name="EmpBonHis_Hours_From_Last_Bonus" Type="decimal" Precision="14" Scale="2" />
+    <Property Name="EmpBonHis_Hours_From_Hire_Date" Type="decimal" Precision="14" Scale="2" />
+  </EntityType>
+  <Association Name="FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId">
+    <End Role="EMPLOYEE" Type="Self.EMPLOYEE" Multiplicity="1" />
+    <End Role="EMPLOYEE_BONUS_HISTORY" Type="Self.EMPLOYEE_BONUS_HISTORY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE">
+        <PropertyRef Name="Emp_Id" />
+      </Principal>
+      <Dependent Role="EMPLOYEE_BONUS_HISTORY">
+        <PropertyRef Name="Emp_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="jsp_Update_JAMIS_Craft_Employee_and_Bonus" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="Craft">
+    <Parameter Name="prt_Cutoff_Date" Type="date" Mode="In" />
+  </Function>
+  <Function Name="rsp_JAMIS_Employee_and_Bonus" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="Craft">
+    <Parameter Name="EmpId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="csp_Migrate_CostPoint_Craft_Employee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="csp_Migrate_HumanResources_Bonus_Hours" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="CRAFT_LONG_BONUSModelStoreContainer">
+    <EntitySet Name="EMPLOYEE" EntityType="Self.EMPLOYEE" Schema="Craft" store:Type="Tables" />
+    <EntitySet Name="EMPLOYEE_BONUS_HISTORY" EntityType="Self.EMPLOYEE_BONUS_HISTORY" Schema="Craft" store:Type="Tables" />
+    <AssociationSet Name="FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId" Association="Self.FK_Craft_EMPLOYEEBONUSHISTORY_EmpId_Craft_EMPLOYEE_EmpId">
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEE" />
+      <End Role="EMPLOYEE_BONUS_HISTORY" EntitySet="EMPLOYEE_BONUS_HISTORY" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,51 @@
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csprojAssemblyReference.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csprojAssemblyReference.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Test\WebApplication.Service\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\Test\WebApplication.Service\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\Test\WebApplication.Service\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Test\WebApplication.Service\obj\Debug\WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Test\WebApplication.Service\obj\Debug\WebApplication.Service.dll
+C:\Desarrollo\Test\WebApplication.Service\obj\Debug\WebApplication.Service.pdb

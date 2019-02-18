@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRAFT_LONG_BONUSModelStoreContainer" CdmEntityContainer="CRAFT_LONG_BONUSEntities1">
+    <EntitySetMapping Name="EMPLOYEE">
+      <EntityTypeMapping TypeName="CRAFT_LONG_BONUSModel.EMPLOYEE">
+        <MappingFragment StoreEntitySet="EMPLOYEE">
+          <ScalarProperty Name="Emp_Id" ColumnName="Emp_Id" />
+          <ScalarProperty Name="Emp_JAMIS_Employee_Id" ColumnName="Emp_JAMIS_Employee_Id" />
+          <ScalarProperty Name="Emp_COSTPOINT_Employee_Id" ColumnName="Emp_COSTPOINT_Employee_Id" />
+          <ScalarProperty Name="Emp_Email" ColumnName="Emp_Email" />
+          <ScalarProperty Name="Emp_PayrollCode" ColumnName="Emp_PayrollCode" />
+          <ScalarProperty Name="Emp_EarningGroup" ColumnName="Emp_EarningGroup" />
+          <ScalarProperty Name="Emp_EmployeeName" ColumnName="Emp_EmployeeName" />
+          <ScalarProperty Name="Emp_LastName" ColumnName="Emp_LastName" />
+          <ScalarProperty Name="Emp_FirstName" ColumnName="Emp_FirstName" />
+          <ScalarProperty Name="Emp_HireDate" ColumnName="Emp_HireDate" />
+          <ScalarProperty Name="Emp_Hiring_Longevity_Days" ColumnName="Emp_Hiring_Longevity_Days" />
+          <ScalarProperty Name="Emp_Total_Labor_Hours" ColumnName="Emp_Total_Labor_Hours" />
+          <ScalarProperty Name="Emp_Last_Bonus_Date" ColumnName="Emp_Last_Bonus_Date" />
+          <ScalarProperty Name="Emp_Labor_Hours_From_Last_Bonus" ColumnName="Emp_Labor_Hours_From_Last_Bonus" />
+          <ScalarProperty Name="Emp_Hours_Cutoff_Date" ColumnName="Emp_Hours_Cutoff_Date" />
+          <ScalarProperty Name="Emp_Cutoff_Date" ColumnName="Emp_Cutoff_Date" />
+          <ScalarProperty Name="Emp_Status" ColumnName="Emp_Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMPLOYEE_BONUS_HISTORY">
+      <EntityTypeMapping TypeName="CRAFT_LONG_BONUSModel.EMPLOYEE_BONUS_HISTORY">
+        <MappingFragment StoreEntitySet="EMPLOYEE_BONUS_HISTORY">
+          <ScalarProperty Name="EmpBonHis_Id" ColumnName="EmpBonHis_Id" />
+          <ScalarProperty Name="Emp_Id" ColumnName="Emp_Id" />
+          <ScalarProperty Name="EmpBonHis_Bonus_Date" ColumnName="EmpBonHis_Bonus_Date" />
+          <ScalarProperty Name="EmpBonHis_Bonus_Value" ColumnName="EmpBonHis_Bonus_Value" />
+          <ScalarProperty Name="EmpBonHis_Longevity_Years" ColumnName="EmpBonHis_Longevity_Years" />
+          <ScalarProperty Name="EmpBonHis_Hours_From_Last_Bonus" ColumnName="EmpBonHis_Hours_From_Last_Bonus" />
+          <ScalarProperty Name="EmpBonHis_Hours_From_Hire_Date" ColumnName="EmpBonHis_Hours_From_Hire_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="jsp_Update_JAMIS_Craft_Employee_and_Bonus" FunctionName="CRAFT_LONG_BONUSModel.Store.jsp_Update_JAMIS_Craft_Employee_and_Bonus" />
+    <FunctionImportMapping FunctionImportName="rsp_JAMIS_Employee_and_Bonus" FunctionName="CRAFT_LONG_BONUSModel.Store.rsp_JAMIS_Employee_and_Bonus">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CRAFT_LONG_BONUSModel.rsp_JAMIS_Employee_and_Bonus_Result">
+          <ScalarProperty Name="Emp_Id" ColumnName="Emp_Id" />
+          <ScalarProperty Name="Emp_JAMIS_Employee_Id" ColumnName="Emp_JAMIS_Employee_Id" />
+          <ScalarProperty Name="Emp_LastName" ColumnName="Emp_LastName" />
+          <ScalarProperty Name="Emp_FirstName" ColumnName="Emp_FirstName" />
+          <ScalarProperty Name="Emp_EmployeeName" ColumnName="Emp_EmployeeName" />
+          <ScalarProperty Name="Emp_Email" ColumnName="Emp_Email" />
+          <ScalarProperty Name="Emp_PayrollCode" ColumnName="Emp_PayrollCode" />
+          <ScalarProperty Name="Emp_EarningGroup" ColumnName="Emp_EarningGroup" />
+          <ScalarProperty Name="Emp_HireDate" ColumnName="Emp_HireDate" />
+          <ScalarProperty Name="Emp_Hiring_Longevity_Days" ColumnName="Emp_Hiring_Longevity_Days" />
+          <ScalarProperty Name="Emp_Total_Labor_Hours" ColumnName="Emp_Total_Labor_Hours" />
+          <ScalarProperty Name="Emp_Last_Bonus_Date" ColumnName="Emp_Last_Bonus_Date" />
+          <ScalarProperty Name="Emp_Labor_Hours_From_Last_Bonus" ColumnName="Emp_Labor_Hours_From_Last_Bonus" />
+          <ScalarProperty Name="Emp_Cutoff_Date" ColumnName="Emp_Cutoff_Date" />
+          <ScalarProperty Name="Emp_Status" ColumnName="Emp_Status" />
+          <ScalarProperty Name="Emp_COSTPOINT_Employee_Id" ColumnName="Emp_COSTPOINT_Employee_Id" />
+          <ScalarProperty Name="EmpBonHis_Id" ColumnName="EmpBonHis_Id" />
+          <ScalarProperty Name="EmpBonHis_Bonus_Date" ColumnName="EmpBonHis_Bonus_Date" />
+          <ScalarProperty Name="EmpBonHis_Bonus_Value" ColumnName="EmpBonHis_Bonus_Value" />
+          <ScalarProperty Name="EmpBonHis_Longevity_Years" ColumnName="EmpBonHis_Longevity_Years" />
+          <ScalarProperty Name="EmpBonHis_Hours_From_Last_Bonus" ColumnName="EmpBonHis_Hours_From_Last_Bonus" />
+          <ScalarProperty Name="EmpBonHis_Hours_From_Hire_Date" ColumnName="EmpBonHis_Hours_From_Hire_Date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="csp_Migrate_CostPoint_Craft_Employee" FunctionName="CRAFT_LONG_BONUSModel.Store.csp_Migrate_CostPoint_Craft_Employee" />
+    <FunctionImportMapping FunctionImportName="csp_Migrate_HumanResources_Bonus_Hours" FunctionName="CRAFT_LONG_BONUSModel.Store.csp_Migrate_HumanResources_Bonus_Hours" />
+  </EntityContainerMapping>
+</Mapping>

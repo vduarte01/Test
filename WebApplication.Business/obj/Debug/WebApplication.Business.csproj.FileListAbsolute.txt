@@ -1,0 +1,188 @@
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\EntityFramework.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\EntityFramework.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.Mvc.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\EntityFramework.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.Razor.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Repository.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.Mvc.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.Razor.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\EntityFramework.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\EntityFramework.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csprojAssemblyReference.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\EntityFramework.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Razor.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csprojAssemblyReference.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\EntityFramework.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Repository.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\bin\Debug\System.Web.Mvc.xml
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Debug\WebApplication.Business.pdb
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Business.dll
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Business.pdb
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Service.dll
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.pdb
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Infraestructure.dll.config
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Service.pdb
+C:\Desarrollo\Test\WebApplication.Business\bin\Debug\WebApplication.Service.dll.config
+C:\Desarrollo\Test\WebApplication.Business\obj\Debug\WebApplication.Business.csprojAssemblyReference.cache
+C:\Desarrollo\Test\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Test\WebApplication.Business\obj\Debug\WebApplication.Business.csproj.CopyComplete
+C:\Desarrollo\Test\WebApplication.Business\obj\Debug\WebApplication.Business.dll
+C:\Desarrollo\Test\WebApplication.Business\obj\Debug\WebApplication.Business.pdb

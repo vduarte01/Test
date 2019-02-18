@@ -1,0 +1,46 @@
+﻿.treetable-expanded > td:first-child,
+       .treetable-collapsed > td:first-child {
+           padding-left: 2em;
+       }
+
+.treetable-expanded > td:first-child > .treetable-expander,
+.treetable-collapsed > td:first-child > .treetable-expander {
+    top: 0.05em;
+    position: relative;
+    margin-left: -1.5em;
+    margin-right: 0.25em;
+}
+
+.treetable-expanded .treetable-expander, 
+.treetable-expanded .treetable-expander {
+    width: 1em;
+    height: 1em;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+}
+
+.treetable-depth-1 > td:first-child {
+    padding-left: 3em;
+}
+        
+.treetable-depth-2 > td:first-child {
+    padding-left: 4.5em;
+}
+
+.treetable-depth-3 > td:first-child {
+    padding-left: 6em;
+}
+
+.tableAcounting tbody td {
+    font-family: Tahoma;
+    font-size: 10px;
+    color: #484646;
+}
+
+.tableAcounting thead th {
+    font-family: Tahoma;
+    font-size: 10px;
+    color: #484646;
+    background-color: rgb(161, 161, 161);
+}

@@ -1,0 +1,6 @@
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Release\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Release\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Release\WebApplication.Entities.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Release\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Release\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Release\WebApplication.Entities.pdb

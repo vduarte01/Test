@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TESTModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="Emp_Id" />
+    </Key>
+    <Property Name="Emp_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Emp_FirstName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_LastName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Emp_Salary" Type="Decimal" Precision="14" Scale="2" />
+    <Property Name="TypCon_Id" Type="Int32" />
+    <NavigationProperty Name="TYPE_CONTRACT" Relationship="Self.FK_EMPLOYEE_TYPE_CONTRACT" FromRole="EMPLOYEE" ToRole="TYPE_CONTRACT" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TYPE_CONTRACT">
+    <Key>
+      <PropertyRef Name="TypCon_Id" />
+    </Key>
+    <Property Name="TypCon_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TypCon_Description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="EMPLOYEEs" Relationship="Self.FK_EMPLOYEE_TYPE_CONTRACT" FromRole="TYPE_CONTRACT" ToRole="EMPLOYEE" />
+  </EntityType>
+  <Association Name="FK_EMPLOYEE_TYPE_CONTRACT">
+    <End Role="TYPE_CONTRACT" Type="Self.TYPE_CONTRACT" Multiplicity="0..1" />
+    <End Role="EMPLOYEE" Type="Self.EMPLOYEE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TYPE_CONTRACT">
+        <PropertyRef Name="TypCon_Id" />
+      </Principal>
+      <Dependent Role="EMPLOYEE">
+        <PropertyRef Name="TypCon_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TESTEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="EMPLOYEEs" EntityType="Self.EMPLOYEE" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TYPE_CONTRACT" EntityType="Self.TYPE_CONTRACT" />
+    <AssociationSet Name="FK_EMPLOYEE_TYPE_CONTRACT" Association="Self.FK_EMPLOYEE_TYPE_CONTRACT">
+      <End Role="TYPE_CONTRACT" EntitySet="TYPE_CONTRACT" />
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEEs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

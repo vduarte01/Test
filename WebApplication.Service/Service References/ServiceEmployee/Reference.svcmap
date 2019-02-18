@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ba19f374-6128-43ad-8cae-827ac30fd809" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://web01.cape-inc.com/Servicetest/ServiceEmployees.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceEmployees.xsd" MetadataType="Schema" ID="c93bbe59-fb24-45e7-8658-32322c94d169" SourceId="1" SourceUrl="http://web01.cape-inc.com/ServiceTest/ServiceEmployees.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceEmployees1.xsd" MetadataType="Schema" ID="8fafd4a7-b4b5-4153-87ae-81fa4e7fda1a" SourceId="1" SourceUrl="http://web01.cape-inc.com/ServiceTest/ServiceEmployees.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceEmployees.disco" MetadataType="Disco" ID="c5a073fb-bb94-43a2-b6a9-4055ae20b151" SourceId="1" SourceUrl="http://web01.cape-inc.com/ServiceTest/ServiceEmployees.svc?disco" />
+    <MetadataFile FileName="ServiceEmployees.wsdl" MetadataType="Wsdl" ID="6eac324d-b65a-4949-841b-e54d9cc74f37" SourceId="1" SourceUrl="http://web01.cape-inc.com/ServiceTest/ServiceEmployees.svc?wsdl" />
+    <MetadataFile FileName="ServiceEmployees2.xsd" MetadataType="Schema" ID="c783ecf1-5fad-4bf6-8316-b4b9727061d2" SourceId="1" SourceUrl="http://web01.cape-inc.com/ServiceTest/ServiceEmployees.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

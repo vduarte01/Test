@@ -1,0 +1,7 @@
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Release\WebApplication.Service.dll.config
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Release\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\bin\Release\WebApplication.Service.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Release\WebApplication.Service.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Release\WebApplication.Service.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Release\WebApplication.Service.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Service\obj\Release\WebApplication.Service.pdb

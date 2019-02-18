@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TESTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EMPLOYEE">
+    <Key>
+      <PropertyRef Name="Emp_Id" />
+    </Key>
+    <Property Name="Emp_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Emp_FirstName" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_LastName" Type="varchar" MaxLength="255" />
+    <Property Name="Emp_Salary" Type="decimal" Precision="14" Scale="2" />
+    <Property Name="TypCon_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TYPE_CONTRACT">
+    <Key>
+      <PropertyRef Name="TypCon_Id" />
+    </Key>
+    <Property Name="TypCon_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypCon_Description" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK_EMPLOYEE_TYPE_CONTRACT">
+    <End Role="TYPE_CONTRACT" Type="Self.TYPE_CONTRACT" Multiplicity="0..1" />
+    <End Role="EMPLOYEE" Type="Self.EMPLOYEE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TYPE_CONTRACT">
+        <PropertyRef Name="TypCon_Id" />
+      </Principal>
+      <Dependent Role="EMPLOYEE">
+        <PropertyRef Name="TypCon_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TESTModelStoreContainer">
+    <EntitySet Name="EMPLOYEE" EntityType="Self.EMPLOYEE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TYPE_CONTRACT" EntityType="Self.TYPE_CONTRACT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_EMPLOYEE_TYPE_CONTRACT" Association="Self.FK_EMPLOYEE_TYPE_CONTRACT">
+      <End Role="TYPE_CONTRACT" EntitySet="TYPE_CONTRACT" />
+      <End Role="EMPLOYEE" EntitySet="EMPLOYEE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

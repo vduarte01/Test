@@ -1,0 +1,66 @@
+﻿@using WebApp.MVC.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+    Layout = "~/Views/Shared/_LayoutLoginUltimate.cshtml";
+}
+
+<br />
+
+<div class="login100-form validate-form">
+    <span class="login100-form-title p-b-43">
+        TEST | Log in
+    </span>
+
+    <section id="loginForm">
+        @using (Html.BeginForm("Login", "Account", new { returnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.UserName, new { @class = "col-md-4 control-label" })
+                        <div class="col-md-6">
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control imputCape" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Password, new { @class = "col-md-4 control-label" })
+                        <div class="col-md-6">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control imputCape" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+
+                <div class="form-group">
+                    <div class="col-xs-offset-3 col-sm-offset-5 col-md-offset-8 col-lg-offset-8 col-xs-11 col-sm-11 col-md-11 col-lg-11">
+                        <input type="submit" value="Log in" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+            <br />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Cape Environmental Management Inc, All Rights Reserved</p>
+            </footer>
+        }
+    </section>
+
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

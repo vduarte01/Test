@@ -1,0 +1,44 @@
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojAssemblyReference.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojAssemblyReference.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Entities\obj\Debug\WebApplication.Entities.csprojAssemblyReference.cache
+C:\Desarrollo\Test\WebApplication.Entities\bin\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Test\WebApplication.Entities\bin\Debug\WebApplication.Entities.pdb
+C:\Desarrollo\Test\WebApplication.Entities\obj\Debug\WebApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Test\WebApplication.Entities\obj\Debug\WebApplication.Entities.dll
+C:\Desarrollo\Test\WebApplication.Entities\obj\Debug\WebApplication.Entities.pdb

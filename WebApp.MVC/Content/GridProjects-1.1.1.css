@@ -1,0 +1,34 @@
+﻿			.parent_grid {
+				height: 450px;
+                overflow: auto;
+			}
+
+            .parent_grid_two {
+              margin-left: 3px !important;
+              overflow: auto;
+              margin-top: 111px;
+            }
+
+            .parent_grid_pv {
+              margin-left: 3px !important;
+              overflow: auto;
+              margin-top: 111px;
+            }
+
+            .width-grid {
+				width: 1800px !important;
+            }
+
+            .uploadDivs {
+              border:1px solid black; background:#f0f8ff; padding-top: 20px;padding-bottom: 20px;margin-top:20px;
+            }
+
+             .distance {
+              padding-top: 20px; padding-bottom: 20px; margin-top:20px;
+            }
+
+            .labelCount {
+              text-shadow: 6px 4px 11px ;
+            }
+
+         

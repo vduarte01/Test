@@ -1,0 +1,17 @@
+﻿@{
+    var rol = (Session["rol"] == null) ? "" : Session["rol"].ToString();
+    var theme = "";
+    switch (rol)
+    {
+        case "ADMIN":
+            theme = "~/Views/Shared/_LayoutUltimate.cshtml";
+            break;
+        case "PTO-User":
+            theme = "~/Views/Shared/_LayoutUserUltimate.cshtml";
+            break;
+        default:
+            theme = "~/Views/Shared/_LayoutUltimate.cshtml";
+            break;
+    }
+    Layout = theme;
+}

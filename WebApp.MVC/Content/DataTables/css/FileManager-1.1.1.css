@@ -1,0 +1,31 @@
+﻿  @media (min-width: 1400px) {
+        #fileManager {
+            width: 1000px !important;
+        }
+    }
+    
+  @media (max-width: 1366px) {
+        #fileManager{
+         width:534px !important;  
+         overflow-x:scroll; 
+        } 
+    } 
+
+    @media (min-width: 1400px) {
+        #tbJob {
+            width: 1370px !important;
+        }
+    }
+    
+  @media (min-width: 901px) and (max-width: 1366px) {
+        #tbJob{
+         width:900px !important;  
+         overflow-x:scroll; 
+        } 
+    }
+    @media (min-width: 300px) and (max-width: 900px) {
+        #tbJob {
+            width: 300px;
+        }
+    }
+  

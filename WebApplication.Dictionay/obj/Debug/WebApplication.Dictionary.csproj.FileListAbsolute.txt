@@ -1,0 +1,44 @@
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication.MVC\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Purchase\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_ProjectInitial\WebApplication\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojResolveAssemblyReference.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\WebApplication_Craft_Long_Bonus\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojAssemblyReference.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+D:\VICHACK\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojAssemblyReference.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+D:\DELL\Backup portatil Victor\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csprojAssemblyReference.cache
+C:\Desarrollo\Test\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\Test\WebApplication.Dictionay\bin\Debug\WebApplication.Dictionay.pdb
+C:\Desarrollo\Test\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Test\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.dll
+C:\Desarrollo\Test\WebApplication.Dictionay\obj\Debug\WebApplication.Dictionay.pdb

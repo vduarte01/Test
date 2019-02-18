@@ -1,0 +1,5 @@
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Release\WebApplication.Dictionay.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\bin\Release\WebApplication.Dictionay.pdb
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Release\WebApplication.Dictionary.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Release\WebApplication.Dictionay.dll
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Dictionay\obj\Release\WebApplication.Dictionay.pdb

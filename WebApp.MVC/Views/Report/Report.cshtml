@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "Report";
+}
+
+
+<div class="mjsbox">
+    <div class="message alertVB hide "><p class="text-center">@ViewBag.Message</p></div>
+    <div class="error alertVBE hide"><p class="text-center">@ViewBag.ErrorMessage</p></div>
+</div>
+<br />
+@using (Html.BeginForm("Report", "Report"))
+{
+    <div class="row small" style="max-width: 1076px; margin: -1px auto; ">
+    </div>
+}
+
+<br />
+
+<div class="row">
+    <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+
+        <div class="panel panel-primary">
+            <div class=" panel-heading text-center">
+                <h3 class="panel-title negrita">Report Bonues</h3>
+            </div>
+
+            <div class="panel panel-body bs-component table-responsive">
+
+
+
+                <div class="bs-component">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            @*<input type="text" id="txtNot_New_date" name="fname" placeholder="MM/DD/YYYY" class=" datepicker form-control">*@
+                            <span style="cursor:pointer;" class="pull-right viewReportBonus" title="Payroll Report">
+                                <i class="glyphicon glyphicon-folder-open"></i>
+                            </span>Detail Bonus for person
+
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="well">
+                    <h4>DataTables with Emplooyee Information</h4>
+                    <p>If the employee has had bonues, you can see the details of this.</p>
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/DatePicker")
+    @Scripts.Render("~/bundles/Reports")
+
+}

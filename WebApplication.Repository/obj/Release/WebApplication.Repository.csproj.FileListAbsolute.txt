@@ -1,0 +1,2 @@
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Repository\obj\Release\WebApplication.Repository.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Repository\obj\Release\WebApplication.Repository.csproj.CoreCompileInputs.cache

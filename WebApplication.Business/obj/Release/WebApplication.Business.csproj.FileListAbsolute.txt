@@ -1,0 +1,2 @@
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Release\WebApplication.Business.csprojAssemblyReference.cache
+C:\Desarrollo\Craft_Long_Bonus\WebApplication.Business\obj\Release\WebApplication.Business.csproj.CoreCompileInputs.cache

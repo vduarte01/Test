@@ -1,0 +1,178 @@
+﻿@model  WebApplication.Entities.User
+@using System.Web.Configuration;
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="mjsbox ">
+    <div class="message alertVB hide "><p>@ViewBag.Message</p></div>
+    <div class="error alertVBE hide"><p>@ViewBag.ErrorMessage</p></div>
+</div>
+
+<br />
+<br />
+
+
+    <div class="panel panel-primary">
+
+        <div class="panel-heading text-center">
+            <h3 class="panel-title ">Edit User</h3>
+        </div>
+        <div class="panel panel-body">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                @using (Html.BeginForm("Edit", "User", FormMethod.Post, new { @name = "formUser", @enctype = "multipart/form-data" }))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.HiddenFor(model => model.idAplication)
+                    @Html.HiddenFor(model => model.UserId)
+                    @Html.HiddenFor(model => model.name)
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    <br />
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                <label class="control-label col-md-3">First Name</label>
+                                <div class="col-md-5">
+                                    <input id="firstName" type="text" class="form-control" name="firstName" value="" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                <label class="control-label col-md-3">Last Name</label>
+                                <div class="col-md-5">
+                                    <input id="lastName" type="text" class="form-control" name="lastName" value="" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+                    <div class="row">
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.userName, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.EditorFor(model => model.userName, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                                    @Html.ValidationMessageFor(model => model.userName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 ">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control", @type = "email" } })
+                                    @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <br />
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.password, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.EditorFor(model => model.password, new { htmlAttributes = new { @class = "form-control", @type = "password" } })
+                                    @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.userAconting, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.EditorFor(model => model.userAconting, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                                    @Html.ValidationMessageFor(model => model.userAconting, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.rol, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.DropDownListFor(model => model.rol.idRol, new List<SelectListItem>() {
+                                       new SelectListItem() { Text = "ADMIN",Value ="1"},
+                                       new SelectListItem() { Text = "PTO-User",Value ="10"}}, new { @class = "form-control ", @title = "" })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.autorize, htmlAttributes: new { @class = "control-label col-md-3" })
+                                <div class="col-md-5">
+                                    @Html.CheckBoxFor(model => model.autorize, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.autorize, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    @Html.HiddenFor(model => model.userName)
+                    <br />
+                    <div class="row">
+                        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                            @{
+                    var pto = ViewBag.oPto;
+                            }
+                            @if (pto != null)
+                            {
+                                <h2>Documents</h2>
+                                <div class="panel-group">
+                                    <div class="panel panel-default">
+                                        @foreach (var file in ViewBag.oPto.lstFiles)
+                                        {
+                                            <div class="panel-heading">
+                                                <label class="control-label">@file.name</label>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+
+                            }
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <a href="@Url.Action("Index", "User")">
+                                <i class="glyphicon glyphicon-chevron-left"></i>
+                                Go back
+                            </a>
+                        </div>
+
+                        @*<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                                <input id="fileExcel" class="Documento" name="fileExcel" type="file" value="Choose an Excel file" />
+                                <span class="spnError hide" style="color:red;"></span>
+                            </div>*@
+
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <button class="btn btn-sm btn-default" type="submit" value="">
+                                Update
+                                <i class="glyphicon glyphicon-save"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+    </div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/PTOEditUser")
+}

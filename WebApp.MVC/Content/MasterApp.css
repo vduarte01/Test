@@ -1,0 +1,177 @@
+﻿
+#loading {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url('../Images/load.gif') no-repeat center center;
+}
+
+.modal-open .modal-backdrop.in:nth-child(2) {
+    opacity: .5;
+}
+
+
+@media (max-width: 768px) {
+    .hideColumn {
+        display: none;
+    }
+}
+
+/*@media screen and (min-width: 600px) {
+    
+}*/
+
+
+.modal-backdrop.in {
+    opacity: 0.5;
+}
+
+
+.activo {
+    background: red;
+}
+
+.capeContainer {
+    width: auto;
+}
+
+.sizePm {
+    width: auto;
+}
+
+.sizeSelect {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font-size: x-small;
+    width: auto;
+}
+
+
+
+.sizePro {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font-size: x-small;
+    width: 90px;
+}
+
+.sizeOrg {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font-size: x-small;
+    width: 50px;
+}
+
+.sizeLv3 {
+    width: auto;
+}
+
+
+
+.loader {
+    position: fixed;
+    left: 21%;
+    top: 63%;
+}
+
+.imgLoader {
+    width: 70%;
+}
+
+
+
+@-webkit-keyframes spin2 {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    from {
+        transform: scale(1) rotate(0deg);
+    }
+
+    to {
+        transform: scale(1) rotate(360deg);
+    }
+}
+
+
+
+
+.ui-tooltip {
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 5;
+    padding: 4px 8px;
+    background: #808080;
+    color: white;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 9px;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0 0 100px #808080;
+}
+
+
+.ui-datepicker table {
+    border: 0 none;
+}
+
+
+
+table .ok td {
+    background: #4cff00 !important;
+    color: #FFF;
+}
+
+table tr.error {
+    background-color: #db2d2d;
+}
+
+.errorSystem {
+    height: 30px;
+    background: red;
+    color: white;
+    font-weight: bolder;
+    margin-left: -103px;
+    border-radius: 25px 25px 25px 25px;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 3px;
+    margin-top: 20px;
+}
+
+#logo {
+    display: block;
+    position: relative;
+    margin: 20px 0 19px 0;
+    z-index: 50;
+}
+
+
+.negrita {
+    font-weight: bold;
+    font: bold;
+}
+
+
+.revenueComment {
+    border: 3px solid #cccccc;
+    width: 500px;
+    min-height: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.shortLine {
+    line-height: 10px;
+}
